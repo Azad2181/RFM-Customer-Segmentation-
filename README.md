@@ -121,12 +121,3 @@ After calculating the three metrics, customers are scored and grouped into segme
 | **Machine Learning (optional)** | scikit-learn |
 | **Notebook Environment** | Jupyter Notebook |
 | **Version Control** | Git, GitHub |
-
----
-
-## ⚙️ Installation and Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/RFM_Segmentation.git
-   cd RFM_Segmentation
