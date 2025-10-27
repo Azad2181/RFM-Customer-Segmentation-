@@ -121,3 +121,6 @@ After calculating the three metrics, customers are scored and grouped into segme
 | **Machine Learning (optional)** | scikit-learn |
 | **Notebook Environment** | Jupyter Notebook |
 | **Version Control** | Git, GitHub |
+
+
+THNAKS
